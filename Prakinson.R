@@ -1,6 +1,11 @@
 ########################################################################################################################
 ############# FORECASTING PARKINSON'S DISEASE SYMPTON SCORES (UPDRS) USING PARKINSONS TELEMONITORING DATASET ############
 ########################################################################################################################
+
+### AUTHOR : NAVEEN BALARAJU 
+
+
+
 # Dataset description
 #subject# - Integer that uniquely identifies each subject 
 #age - Subject age 
