@@ -1,4 +1,4 @@
-# Clustering-and-characterization-of-Parkinson-s-Telemonitoring-dataset
+# Forecatsing Parkinson's disease symptom score
 1. To implement Clustering on Parkinson’s Telemonitoring dataset and characterize “Jitter” Related variable for a new patient with a High UPDRS score.
 
 2. Consider the Parkinsons Telemonitoring Dataset on the UCI Machine learning repository (https://archive.ics.uci.edu/ml/datasets/Parkinsons+Telemonitoring). This data set was developed with 10 medical centers. Together with a corporation, they developed a telemonitoring device to record speech signals of patients for the prediction
